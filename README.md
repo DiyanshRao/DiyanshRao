@@ -4,7 +4,7 @@ Hey there, I'm Diyansh Rao, a tech enthusiast with a year of coding under my bel
 
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DiyanshRao)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **DiyanshRao/DiyanshRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
