@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hey there, I'm Diyansh Rao, a tech enthusiast with a year of coding under my belt. I'm all about turning bugs into features, crafting code like a symphony, and staying ahead of the tech curve. With a passion for innovation and a dash of humor, I'm the go-to tech whiz in the office. Join me on this coding adventure! 💻✨
 <!--
 **DiyanshRao/DiyanshRao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
